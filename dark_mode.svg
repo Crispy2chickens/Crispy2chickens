@@ -59,8 +59,8 @@ text, tspan {white-space: pre;}
 <tspan x="520" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">crispychicken</tspan>
 <tspan x="520" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="520" y="470">——————</tspan>
-<tspan x="520" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">11</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">12</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">127    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">0</tspan>
-<tspan x="520" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">3   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">4,622,263</tspan> (<tspan class="addColor">6,516,497++</tspan>, <tspan class="delColor">1,894,234--</tspan>)
+<tspan x="520" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">11</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">12</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">128    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">0</tspan>
+<tspan x="520" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">3   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">4,622,263</tspan> (<tspan class="addColor">6,516,502++</tspan>, <tspan class="delColor">1,894,239--</tspan>)
 </text>
 
 </svg>
