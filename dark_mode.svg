@@ -47,11 +47,11 @@ text, tspan {white-space: pre;}
 <tspan x="520" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Marlborough College Malaysia</tspan><tspan class="commentColor"> #MCM</tspan>
 <tspan x="520" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">International Baccalaureate Diploma Programme</tspan><tspan class="commentColor"> #IBDP</tspan>
 <tspan x="520" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.93.1</tspan>
-<tspan x="520" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, C++, JavaScript, PHP</tspan>
-<tspan x="520" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Web</tspan>: <tspan class="valueColor">HTML, CSS</tspan>
-<tspan x="520" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Databases</tspan>: <tspan class="valueColor">MySQL</tspan>
+<tspan x="520" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, C++</tspan>
+<tspan x="520" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Web</tspan>: <tspan class="valueColor">HTML, CSS, JavaScript, Node.js, React, PHP</tspan>
+<tspan x="520" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Databases</tspan>: <tspan class="valueColor">Firebase, MySQL</tspan>
 <tspan x="520" y="250" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Chinese, Malay</tspan>
-<tspan x="520" y="290" class="keyColor">Hobbies</tspan>: <tspan class="valueColor">Minecraft, Badminton, Photoshop</tspan>
+<tspan x="520" y="290" class="keyColor">Hobbies</tspan>: <tspan class="valueColor">Badminton, Photoshop, Board Games</tspan>
 <tspan x="520" y="330" class="keyColor">Contact</tspan>:
 <tspan x="520" y="350">——————</tspan>
 <tspan x="520" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">jteo2025@marlboroughcollege.my</tspan>
