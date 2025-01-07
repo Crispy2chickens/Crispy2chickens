@@ -327,8 +327,8 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     tspan[77].firstChild.data = repo_data
     tspan[79].firstChild.data = contrib_data
     tspan[82].firstChild.data = star_data
-    tspan[87].firstChild.data = commit_data
-    tspan[91].firstChild.data = follower_data
+    tspan[87].firstChild.data = commit_data[:-4]
+    tspan[91].firstChild.data = follower_data[:-3]
     tspan[95].firstChild.data = loc_data[2]
     tspan[96].firstChild.data = loc_data[0] + '++'
     tspan[97].firstChild.data = loc_data[1] + '--'
