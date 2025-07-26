@@ -35,7 +35,7 @@ text, tspan {white-space: pre;}
 
 <text x="280" y="30" fill="#c9d1d9" style="font-weight: 400">
 <tspan x="280" y="30">Jolie Teo ——————————————————————————————————————————————————————————————————————</tspan>
-<tspan x="280" y="50" class="fullstopColor">. </tspan><tspan class="keyColor">Uptime</tspan>: <tspan class="fullstopColor">........................... </tspan><tspan class="valueColor">17 years, 11 months, 11 days</tspan>
+<tspan x="280" y="50" class="fullstopColor">. </tspan><tspan class="keyColor">Uptime</tspan>: <tspan class="fullstopColor">........................... </tspan><tspan class="valueColor">17 years, 11 months, 12 days</tspan>
 <tspan x="280" y="70" class="fullstopColor">. </tspan><tspan class="keyColor">Active Processes</tspan>: <tspan class="fullstopColor">... </tspan><tspan class="valueColor">Machine Learning, Full-Stack Development, Engineering</tspan>
 
 <tspan x="280" y="90" class="fullstopColor">. </tspan>
@@ -53,9 +53,9 @@ text, tspan {white-space: pre;}
 <tspan x="280" y="310" class="fullstopColor">. </tspan><tspan class="keyColor">LinkedIn</tspan>: <tspan class="fullstopColor">...................................... </tspan><tspan class="valueColor">Jolie Teo</tspan>
 
 <tspan x="280" y="350">— GitHub Stats —————————————————————————————————————————————————————————————————</tspan>
-<tspan x="280" y="370" class="fullstopColor">. </tspan><tspan class="keyColor">Repos</tspan>: <tspan class="fullstopColor">................</tspan><tspan class="valueColor">12</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">13</tspan>} | <tspan class="keyColor">Stars</tspan>: <tspan class="fullstopColor">......... </tspan><tspan class="valueColor">1</tspan>
-<tspan x="280" y="390" class="fullstopColor">. </tspan><tspan class="keyColor">Commmits</tspan>: <tspan class="fullstopColor">........................<tspan style="font-size: 8px"> </tspan> </tspan><tspan class="valueColor">152</tspan> | <tspan class="keyColor">Followers</tspan>: <tspan class="fullstopColor"><tspan style="font-size: 8px"> </tspan>...... </tspan><tspan class="valueColor">2</tspan>
-<tspan x="280" y="410" class="fullstopColor">. </tspan><tspan class="keyColor">Lines of Code</tspan>: <tspan class="fullstopColor">................. </tspan><tspan class="valueColor">4,361,433</tspan> (<tspan class="addColor">7,442,056++</tspan>, <tspan class="delColor">3,080,623--</tspan>)
+<tspan x="280" y="370" class="fullstopColor">. </tspan><tspan class="keyColor">Repos</tspan>: <tspan class="fullstopColor">................</tspan><tspan class="valueColor">14</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">15</tspan>} | <tspan class="keyColor">Stars</tspan>: <tspan class="fullstopColor">......... </tspan><tspan class="valueColor">1</tspan>
+<tspan x="280" y="390" class="fullstopColor">. </tspan><tspan class="keyColor">Commmits</tspan>: <tspan class="fullstopColor">........................<tspan style="font-size: 8px"> </tspan> </tspan><tspan class="valueColor">156</tspan> | <tspan class="keyColor">Followers</tspan>: <tspan class="fullstopColor"><tspan style="font-size: 8px"> </tspan>...... </tspan><tspan class="valueColor">2</tspan>
+<tspan x="280" y="410" class="fullstopColor">. </tspan><tspan class="keyColor">Lines of Code</tspan>: <tspan class="fullstopColor">................. </tspan><tspan class="valueColor">4,361,433</tspan> (<tspan class="addColor">7,442,073++</tspan>, <tspan class="delColor">3,080,640--</tspan>)
 </text>
 
 </svg>
