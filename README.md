@@ -1,27 +1,11 @@
 # Jolie Teo
 
-**Stanford University · Intelligent Systems & Software**
-
-I'm interested in intelligent systems — how models perceive, decide, and act in the real world.
+**Stanford University · Physical AI & Robotics**
 I like building systems that connect machine learning with real deployment, from training models to shipping usable tools.
 
 ---
 
 ## Highlighted Projects
-
-### Planet Satellite Data Workflow System _(In Development)_
-
-A natural-language interface for satellite data analysis designed for conservation teams that need insights from Planet imagery without navigating complex APIs or documentation.
-
-- Builds a **structured knowledge base** by scraping Planet documentation and Jupyter notebooks to extract workflow patterns, API endpoints, and satellite band relationships
-- Uses **RAG** to retrieve relevant code blocks conditioned on user intent
-- A **planning agent** generates and validates an analysis plan before assembling any code
-- Produces executable `.ipynb` pipelines with normalized variables, shared imports, injected parameters, and markdown explanations
-- Includes an **interactive assistant** for explaining, modifying, and debugging generated workflows
-
-`Python` `RAG` `LLM Agents` `Jupyter` `Planet API`
-
----
 
 ### Handwritten Chinese Character Recognition (HCCR)
 
