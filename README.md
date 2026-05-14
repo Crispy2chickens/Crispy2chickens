@@ -6,7 +6,7 @@ I just want to build things with AI in them, especially multi-agent systems, swa
 
 ---
 
-## Currently building
+### Currently building
 
 **Project Centinela** — AI platform that auto-generates custom, runnable Jupyter notebooks for conservation orgs from satellite imagery requests. Multi-agent pipeline grounded in real Planet Labs notebooks so it doesn't hallucinate APIs. Coming soon.
 
@@ -14,9 +14,9 @@ I just want to build things with AI in them, especially multi-agent systems, swa
 
 ---
 
-## Projects
+### Projects
 
-### Handwritten Chinese Character Recognition (HCCR)
+#### Handwritten Chinese Character Recognition (HCCR)
 
 Custom **ResNet101** and **DenseNet121** with CBAM and SE attention modules, trained on the CASIA HWDB1.1 dataset (200 classes).
 
@@ -24,11 +24,11 @@ Custom **ResNet101** and **DenseNet121** with CBAM and SE attention modules, tra
 - CBAM cut convergence time by ~30% for DenseNet but hurt ResNet — interesting architecture-dependent tradeoff
 - Full preprocessing pipeline + GUI for real-time handwriting inference
 
-[Live demo →](https://hccr-gui.vercel.app/)
+<a href="https://hccr-gui.vercel.app/" target="_blank">Live demo →</a>
 
 ---
 
-## Tech stack
+### Tech stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -50,6 +50,6 @@ Custom **ResNet101** and **DenseNet121** with CBAM and SE attention modules, tra
 
 ---
 
-## Contact
+### Contact
 
 jteo0814@gmail.com
