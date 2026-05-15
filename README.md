@@ -10,8 +10,6 @@ I just want to build things with AI in them, especially multi-agent systems, swa
 
 **Project Centinela** — AI platform that auto-generates custom, runnable Jupyter notebooks for conservation orgs from satellite imagery requests. Multi-agent pipeline grounded in real Planet Labs notebooks so it doesn't hallucinate APIs. Coming soon.
 
-**CS107E project** — Gesture-controlled drone using a sensor-instrumented glove. Bare-metal C on a Mango Pi mapping finger/hand sensor data to flight commands.
-
 ---
 
 ### Projects
