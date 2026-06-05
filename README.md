@@ -6,13 +6,15 @@ I just want to build things with AI in them, especially multi-agent systems, swa
 
 ---
 
-### Currently building
+### Projects
 
-**Project Centinela** — AI platform that auto-generates custom, runnable Jupyter notebooks for conservation orgs from satellite imagery requests. Multi-agent pipeline grounded in real Planet Labs notebooks so it doesn't hallucinate APIs. Coming soon.
+#### Project Centinela
+
+AI platform that generates custom, runnable Jupyter notebooks for conservation orgs from satellite imagery requests. I built the planner and coder agents: a two-stage RAG pipeline that retrieves relevant cells from a curated Planet Labs notebook library, then uses Claude to assemble them into a coherent, variable-normalized notebook grounded in real APIs. The planner runs per-step retrieval in parallel (notebook search + Planet docs) across all workflow steps. Also built the Next.js frontend, wired it to Convex, and implemented the chat sidebar for live workflow editing.
+
+<a href="https://planet-agent.vercel.app/" target="_blank">Live demo →</a>
 
 ---
-
-### Projects
 
 #### Handwritten Chinese Character Recognition (HCCR)
 
