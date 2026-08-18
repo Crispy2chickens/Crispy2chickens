@@ -1,8 +1,8 @@
 # Hi, I'm Jolie 👋
 
-**Robotics & AI Engineer · Stanford**
+**AI & Embedded Engineer · Stanford**
 
-I just want to build things with AI in them, especially multi-agent systems, swarm intelligence, or robotics. I learn fast — if I'm given a task or find something interesting I've never done before, I'll figure it out. Always open to collaborating on projects I haven't explored yet.
+Most of my work has been on the AI side: agentic RAG pipelines, custom vision models, and the web stack that let us interact with them. Recently I explored embedded work, so firmware and sensors. I'll work at whatever layer a project needs. I learn fast. If I'm given a task I've never done before, I'll figure it out. Always open to collaborating.
 
 ---
 
@@ -10,9 +10,17 @@ I just want to build things with AI in them, especially multi-agent systems, swa
 
 #### Project Centinela
 
-AI platform that generates custom, runnable Jupyter notebooks for conservation orgs from satellite imagery requests. I built the planner and coder agents: a two-stage RAG pipeline that retrieves relevant cells from a curated Planet Labs notebook library, then uses Claude to assemble them into a coherent, variable-normalized notebook grounded in real APIs. The planner runs per-step retrieval in parallel (notebook search + Planet docs) across all workflow steps. Also built the Next.js frontend, wired it to Convex, and implemented the chat sidebar for live workflow editing.
+AI platform that generates custom, runnable Jupyter notebooks for conservation orgs from satellite imagery requests. I built the planner and coder agents: a two-stage RAG pipeline that retrieves relevant cells from a curated Planet Labs notebook library, then uses Claude to assemble them into a coherent, variable-normalized notebook grounded in real APIs. The planner runs per-step retrieval in parallel (notebook search + Planet docs) across all workflow steps. Also wired the Next.js frontend to Convex and implemented the edit mode of the chat sidebar (one of its two modes, alongside Q&A), which lets users revise the workflow live.
 
 <a href="https://planet-agent.vercel.app/" target="_blank">Live demo →</a>
+
+---
+
+#### Laser Guitar
+
+A guitar with six laser beams instead of strings, running bare metal on a MangoPi MQ-Pro (RISC-V) for Stanford's CS107E. Break a beam and the note rings out over I2S while the neck lights up with a traveling LED wave. Built with Angelisa Wang, who owned the circuit layout and the LED and rotary modules. I owned the audio: a plucked-string synth with harmonics and decay. Polyphony is also supported, which needed double buffering and fixed-point math. I also laser-cut the body, 3D-printed the sensor housings, and ported the firmware synth into a browser demo (Three.js + AudioWorklet).
+
+<a href="https://laser-guitar.vercel.app/" target="_blank">Live demo →</a>
 
 ---
 
@@ -35,9 +43,12 @@ Custom **ResNet101** and **DenseNet121** with CBAM and SE attention modules, tra
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-%23283272.svg?style=for-the-badge&logo=riscv&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/webgl-%23990000.svg?style=for-the-badge&logo=webgl&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
