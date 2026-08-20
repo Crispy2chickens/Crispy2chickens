@@ -2,7 +2,7 @@
 
 **AI & Embedded Engineer · Stanford**
 
-Most of my work has been on the AI side: agentic RAG pipelines, custom vision models, and the web stack that let us interact with them. Recently I explored embedded work, so firmware and sensors. I'll work at whatever layer a project needs. I learn fast. If I'm given a task I've never done before, I'll figure it out. Always open to collaborating.
+Most of my work has been on the AI side: agentic RAG pipelines, custom vision models, and the web stack that let users interact with them. Recently, I explored embedded systems and worked with firmware and sensors. I'll work at whatever layer a project needs. I learn fast, and when I'm given a task I've never done before, I'll figure it out. I'm always open to collaborating.
 
 ---
 
