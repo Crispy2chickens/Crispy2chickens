@@ -5,7 +5,9 @@
 
 I'm a CS sophomore at Stanford, and a bit of a jack of all trades. I've done ML research, bare-metal firmware and full-stack web apps, but lately I've been really into the EE side of CS.
 
-Right now I'm doing mmWave radar sensing research in the [Arbabian Lab](https://arbabianlab.stanford.edu/), and designing the hydrophone digital board for Stanford RoboSub. Eventually, I'd love to build consumer hardware, since it uses everything I like at once.
+Right now I'm doing mmWave radar sensing research in the [Arbabian Lab](https://arbabianlab.stanford.edu/), and designing the hydrophone digital board for Stanford RoboSub.
+
+Eventually, I'd love to build consumer hardware. I want to make things that are tangible, and I just like seeing people use my products (it also helps that I'd get to use them too). It's hard because people are picky, so it can always be improved.
 
 [Email](mailto:jteo0814@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jolie-teo/)
 
