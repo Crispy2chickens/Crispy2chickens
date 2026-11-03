@@ -11,7 +11,7 @@ Right now I'm doing mmWave radar sensing research in the [Arbabian Lab](https://
 
 ---
 
-### Projects
+### Selected work
 
 **Hydrophone Digital Board** &nbsp;*in progress* &nbsp;·&nbsp; 2026\
 *Stanford RoboSub electrical, gen 3 · with Isaac Zucker*\
@@ -19,24 +19,15 @@ Isaac designed the analog board, which cleans up the hydrophone signals. I'm des
 
 **mmWave Radar Sensing** &nbsp;*in progress* &nbsp;·&nbsp; 2026\
 *Undergraduate research · Arbabian Lab, Stanford*\
-Sensing research with mmWave radar.
-
-**Know2** &nbsp;·&nbsp; 2026\
-*Software engineering intern, summer 2026*\
-Worked on an AI research agent and its web app.
-
-**Caught in 4K** &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; [demo](https://caught-in-4k-app.vercel.app/)\
-*HackHarvard 2026 · third place in a main track*\
-A camera that looks at a piece of waste and tells you which bin it goes in.
-
-**Project Centinela** &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; [demo](https://planet-agent.vercel.app/)\
-*Team project · built for conservation orgs*\
-Turns a satellite-imagery request into a runnable Jupyter notebook. I built the planner and coder agents, which retrieve cells from a library of Planet Labs notebooks and assemble them into one that runs, and the chat sidebar's edit mode for revising the workflow live.
+Teaching radar to tell how people are moving. I match up what the radar sees with what a camera sees, so the camera can help teach the radar. It learns better that way than from radar alone.
 
 **Laser Guitar** &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; [play it in your browser](https://laser-guitar.vercel.app/)\
 *CS107E final project · with Angelisa Wang*\
 Six laser beams instead of strings, running bare metal on a RISC-V board. Break a beam and the note rings out. I wrote the polyphonic plucked-string synth, then ported it to the browser.
 
-**Handwritten Chinese Character Recognition** &nbsp;·&nbsp; [demo](https://hccr-gui.vercel.app/)\
-*Independent ML project*\
-Custom DenseNet121 and ResNet101 models with CBAM and SE attention, trained on CASIA HWDB1.1 (200 classes). 96.2% test accuracy, plus a GUI that recognizes handwriting as you draw.
+### Also
+
+- **Caught in 4K** &nbsp;[demo](https://caught-in-4k-app.vercel.app/) — Waste-sorting camera. Third place in a main track at HackHarvard 2026.
+- **Know2** — Software engineering intern, summer 2026. Worked on an AI research agent.
+- **Project Centinela** &nbsp;[demo](https://planet-agent.vercel.app/) — Turns satellite-imagery requests into runnable notebooks. I built the agents.
+- **HCCR** &nbsp;[demo](https://hccr-gui.vercel.app/) — Chinese handwriting recognition with custom CNNs, 96.2% test accuracy.
