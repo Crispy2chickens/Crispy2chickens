@@ -1,15 +1,42 @@
-<img src="transit-map.svg" alt="Jolie Teo, Stanford Computer Science, jack of all trades. My projects drawn as a transit map with a Machine Learning line, a Hardware line and a Web line." width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <img src="header-light.svg" alt="Jolie Teo, Stanford University">
+</picture>
 
-### Station guide
+I'm a CS sophomore at Stanford, and a bit of a jack of all trades. I've done ML research, bare-metal firmware and full-stack web apps, but lately I've been really into the EE side of CS.
 
-| Station | Lines | | |
-|---|---|---|---|
-| **HCCR** | ML · Web | Handwritten Chinese character recognition. Custom DenseNet121 / ResNet101 with CBAM and SE attention, 96.2% test accuracy, plus a GUI for live handwriting inference. | [demo](https://hccr-gui.vercel.app/) |
-| **Project Centinela** | Web | Turns satellite-imagery requests into runnable Jupyter notebooks for conservation orgs. I built the planner and coder agents (two-stage RAG over Planet Labs notebooks) and the chat sidebar's edit mode. | [demo](https://planet-agent.vercel.app/) |
-| **Caught in 4K** | ML | Waste-sorting camera that tells you which bin. Third place in a main track at HackHarvard 2026. | [demo](https://caught-in-4k-app.vercel.app/) |
-| **mmWave Radar** | ML · Hardware | Undergraduate research at Stanford's Arbabian Lab. | |
-| **Laser Guitar** | Hardware · Web | Six laser beams instead of strings, bare metal on RISC-V for CS107E. I wrote the polyphonic plucked-string synth, then ported it to the browser. | [demo](https://laser-guitar.vercel.app/) |
-| **Hydrophone Board** | Hardware | 4-channel piezo hydrophone front end for Stanford RoboSub. | |
-| **Know2** | Web | Software engineering intern, summer 2026. AI research agent and web app. | |
+Right now I'm doing mmWave radar sensing research in the [Arbabian Lab](https://arbabianlab.stanford.edu/), and designing the hydrophone digital board for Stanford RoboSub. Eventually, I'd love to build consumer hardware, since it uses everything I like at once.
 
-`jteo0814@gmail.com` · [LinkedIn](https://www.linkedin.com/in/jolie-teo/)
+[Email](mailto:jteo0814@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jolie-teo/)
+
+---
+
+### Projects
+
+**Hydrophone Digital Board** &nbsp;*in progress* &nbsp;·&nbsp; 2026\
+*Stanford RoboSub electrical, gen 3 · with Isaac Zucker*\
+Isaac designed the analog board, which cleans up the hydrophone signals. I'm designing the digital board, which samples all four channels at the same instant, 512,000 times a second. A Teensy saves the samples to its built-in microSD card and sends them on to the sub's Orin.
+
+**mmWave Radar Sensing** &nbsp;*in progress* &nbsp;·&nbsp; 2026\
+*Undergraduate research · Arbabian Lab, Stanford*\
+Sensing research with mmWave radar.
+
+**Know2** &nbsp;·&nbsp; 2026\
+*Software engineering intern, summer 2026*\
+Worked on an AI research agent and its web app.
+
+**Caught in 4K** &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; [demo](https://caught-in-4k-app.vercel.app/)\
+*HackHarvard 2026 · third place in a main track*\
+A camera that looks at a piece of waste and tells you which bin it goes in.
+
+**Project Centinela** &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; [demo](https://planet-agent.vercel.app/)\
+*Team project · built for conservation orgs*\
+Turns a satellite-imagery request into a runnable Jupyter notebook. I built the planner and coder agents, which retrieve cells from a library of Planet Labs notebooks and assemble them into one that runs, and the chat sidebar's edit mode for revising the workflow live.
+
+**Laser Guitar** &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; [play it in your browser](https://laser-guitar.vercel.app/)\
+*CS107E final project · with Angelisa Wang*\
+Six laser beams instead of strings, running bare metal on a RISC-V board. Break a beam and the note rings out. I wrote the polyphonic plucked-string synth, then ported it to the browser.
+
+**Handwritten Chinese Character Recognition** &nbsp;·&nbsp; [demo](https://hccr-gui.vercel.app/)\
+*Independent ML project*\
+Custom DenseNet121 and ResNet101 models with CBAM and SE attention, trained on CASIA HWDB1.1 (200 classes). 96.2% test accuracy, plus a GUI that recognizes handwriting as you draw.
